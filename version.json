@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/JustMeWho/fiszki-app/releases/download/v1.0.0/app-debug.apk",
-  "changelog": "- Pierwsza wersja aplikacji FiszkiAI\n- Import zdjęć i tryb pisania"
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/JustMeWho/fiszki-app/releases/download/v1.2.0/app-debug.apk",
+  "changelog": "- Masowe / hurtowe dodawanie słówek (wklejanie listy)\n- Nauka z wielu zestawów naraz (mieszanie słówek z wybranych działów)\n- Elastyczne akceptowanie pojedynczych form tłumaczenia (np. żonaty / zamężna)\n- Poprawki kontrastu i przycisków dla motywu jasnego i ciemnego\n- Stabilizacja aparatu na telefonach Motorola"
 }
